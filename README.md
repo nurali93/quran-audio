@@ -1,7 +1,7 @@
 ## Quran Audio React Project
 Website providing quran audio built on react.
 
-#Installation
+# Installation
 - `git clone` on terminal
 - `cd quran-audio` to go into the directory
 - `npm install` do download nodes
